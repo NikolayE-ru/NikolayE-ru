@@ -20,4 +20,4 @@
 - [x] `Retro game` - Пошаговая игра с выбором игрового персонажа и сменой уровня в случае победы ([Github](https://github.com/Nikolay87-ru/js-advanced-diploma  'ссылка на проект'))  
 
 ### Моя статистика на Leetcode:
-![Leetcode Stats](https://leetcard.jacoblin.cool/nikolay87-ru?theme=light&font=Average%20Sans)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nikolayE?theme=light&font=Average%20Sans)
